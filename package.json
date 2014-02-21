@@ -1,0 +1,13 @@
+{
+  "name": "linkdir",
+  "version": "0.1.0",
+  "description": "Command Line tool to link directories under OS X",
+  "license": "WTFPL",
+  "author": "Minsheng Liu",
+  "email": "notcome@me.com",
+  "bin": "./linkdir.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notcome/Linkdir.js"
+  }
+}
